@@ -3,6 +3,7 @@ Genesis plugins -still works
 
 I put my still working plugins for Genesis framework here:)
 
+* genesis-palette-pro, still a great tool!
 * genesis porfolio, Portfolio for genesis themes.
 * genesis-widget-background  very good plugin
 * Genesis generator, (4v years old), Adds a WP-CLI command to scaffold a Genesis Sample theme
