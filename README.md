@@ -3,6 +3,7 @@ Genesis plugins -still works
 
 I put my still working plugins for Genesis framework here:)
 
+* frontend builder
 * custom-page-templates
 * image-widget, add images to widgets.
 * genesis-palette-pro, still a great tool!
