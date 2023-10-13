@@ -2,7 +2,16 @@
 Genesis plugins -still works
 
 I put my still working plugins for Genesis framework here:)
-
+* genesis-accessible
+* automatic-alternative-text
+* genesis-extender
+* genesis-layout-extras
+* genesis-responsive-slider
+* genesis-site-title-styles
+* genesis-subtitles
+* wp-header-images
+* genesis-widgetized-notfound
+* genesis-generator-master  (creates genes themes)
 * genesis-grid-loop
 * frontend builder
 * custom-page-templates
